@@ -1,4 +1,4 @@
-# CEC-2023-Competition  
+# CEC-2023-Competition-on-Seeking-Multiple-Optima-in-Dynamic-Environments
 ## Introduction:
   Ying Zhu, Ziyu Zhang, Yuetong Sun and Peilan Xu. The first place of the Competition on Seeking Multiple Optima in Dynamic Environments, IEEE Congress on Evolutionary Computation (IEEE CEC) 2023, July 1-5, Chicago USA.
 ## Operating Instructions:
